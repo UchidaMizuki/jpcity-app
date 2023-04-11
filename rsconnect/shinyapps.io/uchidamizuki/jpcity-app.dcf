@@ -1,0 +1,13 @@
+name: jpcity-app
+title: jpcity-app
+username:
+account: uchidamizuki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8808392
+bundleId: 7071239
+url: https://uchidamizuki.shinyapps.io/jpcity-app/
+when: 1681140230.6092
+lastSyncTime: 1681140230.60923
+asMultiple: FALSE
+asStatic: FALSE
